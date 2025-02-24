@@ -6,7 +6,6 @@ Blog page design for a front-end development company. The project showcases skil
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 &nbsp;
