@@ -1,7 +1,7 @@
 ![redCODE STudio layout](https://github.com/user-attachments/assets/26bea025-f9e2-4816-8e8b-ffcb3a2e95fb)
 
 ## 🔥 Project Name - redCODE STudio
-See the live version of [BISTRO](https://imediasystem.eu/)
+See the live version of [redCODE STudio](https://imediasystem.eu/)
 
 Blog page design for a front-end development company. The project showcases skills in using the no code WordPress platform.
 
