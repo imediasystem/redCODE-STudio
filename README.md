@@ -1,7 +1,7 @@
 ![redCODE STudio layout](https://github.com/user-attachments/assets/26bea025-f9e2-4816-8e8b-ffcb3a2e95fb)
 
 ## 🔥 Project Name - redCODE STudio
-See the live version of [redCODE STudio](https://imediasystem.eu/)
+See the live version of [redCODE STudio](https://imediasystem.eu/) ↗️
 
 Blog page design for a front-end development company. The project showcases skills in using the no code WordPress platform.
 &nbsp;
@@ -19,11 +19,11 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 &nbsp;
 
 ## 🔗 See also
-Are you interested in? See my other projects and visit my website [iMedia SysteM - imediasystem.eu](https://imediasystem.eu/)
+Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
 
 ## 📝 Feel free to contact me
-Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/)
+Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/) ↗️
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
