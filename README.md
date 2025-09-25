@@ -1,7 +1,7 @@
 <img width="1899" height="925" alt="Zrzut ekranu 2025-09-25 121934" src="https://github.com/user-attachments/assets/621f8834-be31-4ac0-a87b-66e96950cf39" />
 
 ## 🔥 Project Name - redCODE STudio
-See the live version of [redCODE STudio](https://imediasystem.eu/) ↗️
+See the live version of [redCODE STudio](https://imediasystem.github.io/redCODE-STudio/) ↗️
 
 Blog page design for a front-end development company. The project showcases skills in using the no code WordPress platform.
 &nbsp;
