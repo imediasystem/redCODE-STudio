@@ -1,4 +1,4 @@
-![redCODE STudio layout](https://github.com/user-attachments/assets/26bea025-f9e2-4816-8e8b-ffcb3a2e95fb)
+<img width="1899" height="925" alt="Zrzut ekranu 2025-09-25 121934" src="https://github.com/user-attachments/assets/621f8834-be31-4ac0-a87b-66e96950cf39" />
 
 ## 🔥 Project Name - redCODE STudio
 See the live version of [redCODE STudio](https://imediasystem.eu/) ↗️
