@@ -4,8 +4,6 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/redCODE-STudio/)
 
-See the live version of [redCODE STudio](https://imediasystem.github.io/redCODE-STudio/) ↗️
-
 Blog page design for a front-end development company. The project showcases skills in using the no code WordPress platform.
 &nbsp;
 
