@@ -4,7 +4,7 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/redCODE-STudio/)
 
-Blog page design for a front-end development company. The project showcases skills in using the no code WordPress platform.
+Fully responsive website that not only look great on any device but also ensure your business operates lightning-fast online, thanks to the use of Bootstrap and clean HTML5/CSS3 code.
 &nbsp;
 
 ## 📚 Key Features
