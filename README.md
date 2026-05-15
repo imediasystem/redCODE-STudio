@@ -21,7 +21,6 @@ Fully responsive website that not only look great on any device but also ensure 
 &nbsp;
 
 ## 💿 Installation
-
 Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 &nbsp;
 
